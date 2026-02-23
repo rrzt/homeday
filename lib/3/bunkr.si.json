@@ -1,0 +1,20 @@
+        {
+            "分类url":"https://bunkr.si/a/{cateId}",
+            "分类":"ShinyBound$Ed7H8P21",
+
+            "数组":"class=\"grid-images_box-txt\"&&aria-label=\"download\"",
+            "图片":"src=\"&&\"",
+            "标题":"truncate theName text-center\">&&.webm</p>",
+            "副标题":"style=\"margin: 5px 0 5px 0\">&&</p>",
+            "链接":"href=\"&&\"",
+            "简介":"无",
+
+            //"跳转播放链接": "<source src=\"&&\"",//necessary
+            "跳转播放链接": "https://meatballs.bunkr.ru/+videoCoverUrl = \"https:\/\/i-meatballs.bunkr.ru\/thumbs\/&&.webm_grid+.webm",
+            
+            "嗅探词":".webm",//necessary
+            "直接播放":"1",//necessary
+            "调试":"1"
+
+
+        }

@@ -1,0 +1,25 @@
+{
+
+    "分类url":"https://pornxxx.tube/videos/{cateId}/?page={catePg}",
+    "分类":"tied$tied-up#secretary$secretary#nylon$nylon#CN$chinese#toys$toys#FM$fucking-machine#panties$panties#bdsm$bdsm#stewardess$stewardess#slave$slave#legged$long-legged#office$office#wife$wife#punishment$punishment#lezdom$lezdom#high-heels$high-heels#pantyhose$pantyhose#miniskirt$miniskirt#femdom$femdom#fetish$fetish#club$club#bondage$bondage#pain$pain#kinky$kinky#domination$domination#handcuffed$handcuffed#lingerie$lingerie#garter-belt$garter-belt#submissive$submissive#blind-folded$blind-folded",
+     
+    "二次截取":"b-thumb-list__wrap&&<div class=\"b-more-thumbs\">",
+    "数组":"class=\"js-gallery-stats js-gallery-link\"&&/span>",
+    "图片":"data-src=\"&&\"",
+    "标题":"title=\"&&\"",
+    "副标题":"<span>&&<",
+    "链接":"href=\"&&\"",
+
+
+    
+    "跳转播放链接":"<source src=\"&&\"",
+    //"二次跳转播放链接":"prompt(\"Node\", \"&&\")",
+    "嗅探词":".m3u8#.mp4",
+              
+    "调试":"1",
+    "直接播放":"1"
+
+
+
+
+}

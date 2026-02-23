@@ -1,0 +1,45 @@
+{
+
+    "二次截取":"\"items\"&&max_attached_short_videos",
+    "数组":"\"duration\"&&\"added\"",
+    "图片":"\"image\":\\[{\"url\":\"&&=vid+=vid_u",
+    "标题":"\"title\":\"&&\"",
+    "链接":"https://vk.com/video+\"video_id\":\"&&\"",
+    
+    "跳转播放链接":"<link itemprop=\"embedUrl\" href=\"&&\"",
+    "二次跳转播放链接":"\"hls\":\"&&\"",
+
+    //"播放链接":"\"player\":\"&&\"", //此链接为数组内直链，可以直接播放，在JSON字段中 
+
+/*json模式，暂时失败
+
+    "二次截取":"\"apiPrefetchCache\":\\[&&,{\"method\":\"video.getAlbumById\"",
+    //"数组":"response.items[]",
+    "图片":"response.items[].image[7].url",
+    "标题":"response.items[].first_frame.title",
+    "链接":"https://vk.com/video+response.items[].ads.params.video_id",
+    "播放链接":"response.items.first_frame.player",
+*/
+    "直接播放":"1",
+    "嗅探词":"m3u8",
+
+"调试":"1",
+
+
+    "分类url":"https://vk.com/video/playlist/{cateId}",
+    "分类":"Hunter$443402636_1#古拉四$646646891_16#贝特$868458413_15#半岛$868637195_12#丽柜$802107339_10#涵涵$738374335_16#逍遥$787702161_4#LOVE$880030809_1"
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

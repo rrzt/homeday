@@ -1,0 +1,40 @@
+
+
+{
+
+    "分类url":"https://noodlemagazine.com/video/{cateId}?&p={catePg}",
+    "分类":"丽柜$丽柜#Strappado$Strappado#Self-Bondage$Self-Bondage#chair tied$chair%20tied#ballgagged$ballgagged#Alba Zevon$Alba%20Zevon#jim hunter$jim%20hunter#HC$harmony%20concepts#BC$Bondage%20Cafe#Tieable$Tieable#Hucows$Hucows#lew rubens$lew%20rubens%20productions#Chimerabondage$Chimerabondage#Chrissy Marie$chrissy%20marie#FutileStruggles$FutileStruggles#Jay Edwards$Jay%20Edwards#DP$Devonshire%20Productions#randy moore$randy%20moore#Metal$metal%20bondage#Inescapable$Inescapable#shibari$shibari#lil missy$lil%20missy#半岛$半岛#Serene Isley$Serene%20Isley#Hardtied$hardtied#bondage$bondage#harness$harness#bdsm$bdsm#CandleBoxxx$candle%20boxxx#christinaCarter$christina%20carter#TerraMizu$terra%20mizu#armbinder$armbinder#stilettos$stilettos#ChineseBondage$chinese%20bondage#hogtie$hogtie#frogtie$frogtie#rachelAdams$rachel%20adams",
+
+    "数组":"class=\"item\"&&<div class=\"m_views\">",
+    "图片":"data-src=\"&&\"[替换:amp;>>空]",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+    "跳转播放链接":"\"sources\"*\"file\"*\"&&\"",
+    
+
+    "搜索url":"https://noodlemagazine.com/video/{wd}?p={catePg}",
+    "嗅探词":".mp4",
+    "调试":"1",
+    "直接播放":"1"
+/*
+    "筛选":{
+    "Strappado":[
+    {"key":"by","name":"排序","value":[
+    {"n":"流行","v":"2"},
+    {"n":"时间","v":"0"},
+    {"n":"时长","v":"1"}
+    ]
+    }
+                ],
+    "ballgagged":[
+    {"key":"by","name":"排序","value":[
+    {"n":"流行","v":"2"},
+    {"n":"时间","v":"0"},
+    {"n":"时长","v":"1"}
+    ]
+    }
+                ]
+}
+*/
+
+}

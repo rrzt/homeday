@@ -1,0 +1,110 @@
+{
+    
+    "调试":"1",
+/*
+    
+    "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
+    "分类":"bdsm$bdsm#stockings$stockings#chinese$chinese#webcam$webcam#office$office#uniform$uniform#casting$casting",
+    //"分类url:":"https://xgroovy.com/categories/{cateId}/",
+*/
+   
+
+   
+    "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
+    "分类二次截取":"second-menu-opened&&</ul>",
+    "分类数组":"<li>&&</li>",
+    "分类ID":"categories/&&/",
+    "分类标题":">&&</a>",
+
+    "数组":"data-video-id&&item-quality",
+    "图片":"src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "副标题":"data-rating=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    "跳转播放链接":"<source id=\"video_source_4\" src=\"&&\"",
+    "嗅探词":".mp4",
+    "直接播放":"1",
+
+    "筛选":{
+                "bdsm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"最新","v":"new"},
+                            {"n":"热门","v":"views"},
+                            {"n":"欢迎","v":"top"},
+                            {"n":"时长","v":"duration"},
+                            {"n":"评论","v":"comment"},
+                            {"n":"在标签","v":"fav"}]}
+                        ],          
+                "stockings":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"最新","v":"new"},
+                            {"n":"热门","v":"views"},
+                            {"n":"欢迎","v":"top"},
+                            {"n":"时长","v":"duration"},
+                            {"n":"评论","v":"comment"},
+                            {"n":"在标签","v":"fav"}]}
+                        ],
+                "chinese":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"最新","v":"new"},
+                            {"n":"热门","v":"views"},
+                            {"n":"欢迎","v":"top"},
+                            {"n":"时长","v":"duration"},
+                            {"n":"评论","v":"comment"},
+                            {"n":"在标签","v":"fav"}]}
+                        ],
+                "webcam":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"最新","v":"new"},
+                            {"n":"热门","v":"views"},
+                            {"n":"欢迎","v":"top"},
+                            {"n":"时长","v":"duration"},
+                            {"n":"评论","v":"comment"},
+                            {"n":"在标签","v":"fav"}]}
+                        ],
+                "office":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"最新","v":"new"},
+                            {"n":"热门","v":"views"},
+                            {"n":"欢迎","v":"top"},
+                            {"n":"时长","v":"duration"},
+                            {"n":"评论","v":"comment"},
+                            {"n":"在标签","v":"fav"}]}
+                        ],
+                "uniform":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"最新","v":"new"},
+                            {"n":"热门","v":"views"},
+                            {"n":"欢迎","v":"top"},
+                            {"n":"时长","v":"duration"},
+                            {"n":"评论","v":"comment"},
+                            {"n":"在标签","v":"fav"}]}
+                        ],
+                "casting":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"全部","v":""},
+                            {"n":"最新","v":"new"},
+                            {"n":"热门","v":"views"},
+                            {"n":"欢迎","v":"top"},
+                            {"n":"时长","v":"duration"},
+                            {"n":"评论","v":"comment"},
+                            {"n":"在标签","v":"fav"}]}
+                        ]
+
+
+
+
+
+        }  
+
+
+
+
+}

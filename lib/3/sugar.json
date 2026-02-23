@@ -1,0 +1,28 @@
+{
+    "分类url":"https://zh.sugar.xxx/girls/{cateId}/{class}",
+    "分类":"teens$teens#milfs$milfs#asian$asian#petite$petite#athletic$athletic#medium$medium#curvy$curvy#blondes$blondes#black-hair$black-hair#redheads$redheads#small-tits$small-tits#chinese$chinese#bdsm$bdsm#vr$vr#new$new#outdoor$outdoor#big-ass$big-ass#hardcore$hardcore#lesbians$lesbians#fuck-machine$fuck-machine#masturbation$masturbation#office$office#foot-fetish$foot-fetish#dildo-or-vibrator$dildo-or-vibrator",
+
+/*
+
+    "分类二次截取":"class=\"tags-category__body\"&&</div>",
+    "分类数组":"<a>&&</a>",
+    "分类ID":"href=\"\/girls\/&&\"",
+    "分类标题":"aria-label=\"&&\"",
+
+*/
+
+    "数组":"class=\"model-list-item-link&&class=\"model-list-item-upper\"",
+    "图片":"src=\"&&\"",
+    "标题":"alt=\"-&& 网络视讯表演\"",
+    "链接":"href=\"&&\"",
+
+    "嗅探词":".m3u",
+
+    //"跳转播放链接":"解析+<video*src=\"&&\"",
+
+              
+
+    "直接播放":"1"
+
+
+}

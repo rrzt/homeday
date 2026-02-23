@@ -1,0 +1,25 @@
+{
+   
+
+/*    "分类":"favorites$my/favorites/videos",
+    "分类url":"https://zh.xhvid.com/{cateId}/{catePg}",
+    "登录":"https://zh.xhvid.com/login#00000#22222",    */
+    
+    //"分类url":"https://zh.megaxh.com/{cateId}/{catePg};;k",
+    //"分类url":"https://zh.xhwing.site/{cateId}/{catePg};;k",
+    "分类url":"https://zh.xhvid.com/{cateId}/{catePg};;k",
+    "分类":"NEW$newest#BEST$best#BDSM$categories/bdsm#SUSP$categories/suspension-bondage#TIE$categories/tied-up#JP$categories/shibari#BD$categories/bondage#HOG$categories/hogtied#KINK$categories/kinky#SYBIAN$categories/sybian#HITACHI$categories/hitachi#GAG$categories/ball-gagged#BLIND$categories/blindfolded#STOCKING$categories/stockings#THONG$categories/thong#PANTY$categories/pantyhose#HIGHEEL$categories/high-heels#LINGERIE$categories/lingerie#NYLON$categories/nylon#SECRETARY$categories/secretary#STRIPTEASE$categories/striptease",      
+    "数组":"role-pop thumb-image-container\"&&class=\"video-thumb-info\">",
+    "图片":"src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    "跳转播放链接":"<link rel=\"preload\" href=\"&&\" as=\"fetch\" crossorigin>",
+
+    "直接播放":"1",
+    "搜索模式":"1",
+    "搜索url":"https://zh.megaxh.com/search/{wd}?page={catePg}",
+    "嗅探词":"webm#mp4#m3u8"
+
+
+}

@@ -1,0 +1,83 @@
+{
+
+        
+        //"分类url":"https://bdsmvilla.com/{cateId}{by}?page={catePg}",//this Writing method is for sorting!
+        //"分类":"BD$bondage#CN$chinese-bdsm#Elec$electro-tens#Forced$forced-orgasm#Chastity$chastity#OUT$outdoor-bdsm#Vintage$vintage-bdsm",
+        "播放请求头":"Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.251 Safari/537.36",
+
+        "分类url":"https://bdsmvilla.com/{cateId}?page={catePg}",//this Writing method is no sorting,Only display the latest!
+        "分类":"NEW$new#BD$category/bondage#CN$category/chinese-bdsm#Elec$category/electro-tens#Forced$category/forced-orgasm#CB$category/chastity#OUT$category/outdoor-bdsm#Vintage$category/vintage-bdsm#tit-torture$category/tit-torture",
+        
+        "数组":"border-accent group&&bg-opacity-30",
+        "图片":"<img class=*src=\"&&\"",
+        "标题":"alt=\"&&\"",
+        "副标题":"text-sm text-white\">&&</div>",
+        "链接":"<a href='&&'",
+
+
+        "跳转播放链接":"<source src=\"&&\"",
+        "直接播放": "1",
+        "调试":"1",
+
+        //"免嗅":"1",
+        //"嗅探词":".mp4",
+
+        "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
+
+
+
+        "筛选":{
+                "bondage":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"popular","v":"/best"},
+                            {"n":"most viewed","v":"/viewed"},
+                            {"n":"most commented","v":"/commented"}]}
+                        ],          
+                "chinese-bdsm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"popular","v":"/best"},
+                            {"n":"most viewed","v":"/viewed"},
+                            {"n":"most commented","v":"/commented"}]}
+                        ],
+                "electro-tens":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"popular","v":"/best"},
+                            {"n":"most viewed","v":"/viewed"},
+                            {"n":"most commented","v":"/commented"}]}
+                        ],
+                "forced-orgasm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"popular","v":"/best"},
+                            {"n":"most viewed","v":"/viewed"},
+                            {"n":"most commented","v":"/commented"}]}
+                        ],
+                "chastity":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"popular","v":"/best"},
+                            {"n":"most viewed","v":"/viewed"},
+                            {"n":"most commented","v":"/commented"}]}
+                        ],
+                "outdoor-bdsm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"popular","v":"/best"},
+                            {"n":"most viewed","v":"/viewed"},
+                            {"n":"most commented","v":"/commented"}]}
+                        ],
+                "vintage-bdsm":[
+                            {"key":"by","name":"排序","value":[
+                            {"n":"popular","v":"/best"},
+                            {"n":"most viewed","v":"/viewed"},
+                            {"n":"most commented","v":"/commented"}]}
+                        ]
+
+
+
+
+
+
+
+        }       
+
+
+
+}

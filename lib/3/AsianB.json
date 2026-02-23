@@ -1,0 +1,39 @@
+{
+
+    "请求头":"User-Agent$Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36#Cookie$age_gate=18",
+    //"cookie":"age_gate=18",
+
+    "分类url":"https://asian-bondage.com/category/{cateId}/page/{catePg}/",
+    "分类":"思米$simi-%e4%b8%9d%e7%b1%b3#试炼$trial-original#象人$elephant-man-studio#梦川$mengchuan#禾一$heyi-original-qq3212989828#缚心室$meditation-original-q：1921340493#雷曼$raymond-raymondtsien#半岛$jinan-rope#猎美$yume-qq-3789676190#逍遥$xiaoyao#一生所爱$beloved-by-one-rope-351552501",
+
+
+    "数组":"class=\"entry-header&&class=\"entry-footer",
+    "图片":"<p><a*href=\"&&\"",
+    "标题":"rel=\"bookmark\">&&</a>",
+    "链接":"entry-title\"><a*href=\"&&\"",
+
+
+    "跳转播放链接":"<p>Download:</p><p><a href=\"&&\"",
+    "二次跳转播放链接":"https://+|hls|&&|sources|+.hotlink.cc/hls/+|urlset|&&|hls|+,.urlset/master.m3u8?xxx=+image|&&|xxx",
+
+
+    "嗅探词":".m3u8",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+/*
+    "分类url":"https://bondage-guru.net/category/{cateId}/page/{catePg}",
+    "分类":"mf1$bondage-mf",
+
+
+    "数组":"class=\"featured-image epcl-flex\">&&<div class=\"meta absolute hide-on-mobile hide-on-tablet\">",
+
+    "图片":"data-src=\"&&\"",
+    "标题":"alt=\"&&\""
+    //"链接":"href=\"&&\""
+
+*/
+
+}

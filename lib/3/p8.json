@@ -1,0 +1,33 @@
+{
+
+    //"分类url":"https://porn8.tube/{cateId}/?{by}&page={catePg}",
+    "分类url":"https://porn8.tube/{cateId}/?sort=newest&page={catePg}",
+    "分类":"bondage$bondage#tied-up$tied-up#nylon$nylon#stockings$stockings#sybian$sybian#punishment$punishment#panties$panties#fetish$fetish#pantyhose$pantyhose#blind-folded$blind-folded#handcuffed$handcuffed#satin$satin#high-heels$high-heels#femdom$femdom#gagging$gagging#bdsm$bdsm#lezdom$lezdom#miniskirt$miniskirt#submissive$submissive#domination$domination",
+
+    "数组":"b-thumb-item-inner relative&&details-wrapper",
+    "图片":"data-src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+    "跳转播放链接":"<source src=\"&&\"",
+    
+
+    "搜索url":"https://porn8.tube/tags/{wd}?page={catePg}",
+    "嗅探词":".mp4",
+    "调试":"1",
+    "直接播放":"1"
+/*
+    "筛选":{
+
+    "bondage":[{"key":"by",
+                "name":"排序",
+                "value":[{"n":"流行","v":""},{"n":"最长","v":"sort=longest"},{"n":"最新","v":"sort=newest"}]}],
+    "tied-up":[{"key":"by",
+                "name":"排序",
+                "value":[{"n":"流行","v":""},{"n":"最长","v":"sort=longest"},{"n":"最新","v":"sort=newest"}]}]
+
+
+        }
+*/
+
+
+}

@@ -1,0 +1,21 @@
+{
+    
+    "分类url":"https://zh.xhvid.com/categories/{cateId}/{catePg}",
+
+
+    "分类":"电击$estim",
+    "数组":"container ist-trigger&&video-thumb-info",
+    "图片":"src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    
+
+    "直接播放":"1",
+    "嗅探词":".m3u8",
+    "调试":"1",
+
+
+
+
+}

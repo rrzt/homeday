@@ -1,0 +1,25 @@
+{
+
+    "分类url":"https://bdsm.one/{cateId}/date/p{catePg}/[https://bdsm.one/{cateId}/]",
+    //"分类":"gag$c167/gags#bondage$c120/bondage",
+
+    "分类二次截取":"class=\"tag-list\">&&</div><br />",
+    "分类数组":"<h3><a&&/a></h3>",
+    "分类ID":"href=\"https://bdsm.one&&/\"",
+    "分类标题":">&&<",
+
+    //"数组":"class=\"th movie-&&class=\"video-title\"",
+    "数组":"class=\"th&&class=\"video-title\"",
+    "图片":"<img src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    "跳转播放链接":"videoUrl: \"&&\"",
+
+    "嗅探词":"mp4",
+    "直接播放":"1"
+
+
+
+
+}

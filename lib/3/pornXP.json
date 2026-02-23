@@ -1,0 +1,78 @@
+{
+            "分类url":"https://pornxp.one/{cateId}/{class}?sort={by}&page={catePg}",
+            "分类":"NEW$released#HD$hd#BEST$best#HOGTIE$tags/hogtie#TIE$tags/tie#BONDAGE$tags/bondage#ROPE$tags/rope#PANTYHOSE$tags/pantyhose#STOCKINGS$tags/stocking",
+
+            "数组":"class=\"item preview\"&&class=\"item_tags\"",
+            "图片":"data-src=\"&&\"",
+            "标题":"class=\"item_title\">&&</div>",
+            "链接":"href=\"&&\"",
+            "简介":"id=\"desc\"&&<br><br>",
+            
+            "直接播放":"1",
+            "搜索模式":"1",
+            "搜索url":"https://pornxp.one/tags/{wd}?page={catePg}",
+
+             "筛选":{
+                        "best":[
+                                    {"key":"class","name":"时段","value":[
+                                    {"n":"所有","v":""},
+                                    {"n":"90days","v":"90days"},
+                                    {"n":"30days","v":"30days"},
+                                    {"n":"7days","v":"7days"},
+                                    {"n":"3days","v":"3days"},
+                                    {"n":"24H","v":"1days"},
+                                    {"n":"2024","v":"2024"},
+                                    {"n":"Aug2024","v":"Aug2024"},
+                                    {"n":"Jul2024","v":"Jul2024"},
+                                    {"n":"June2024","v":"June2024"},
+                                    {"n":"2023","v":"2023"},
+                                    {"n":"2022","v":"2022"},
+                                    {"n":"2021","v":"2021"},
+                                    {"n":"2020","v":"2020"},
+                                    {"n":"2019","v":"2019"},
+                                    {"n":"2018","v":"2018"}]}
+                               ],
+                        "tags/hogtie":[
+                                    {"key":"by","name":"排序","value":[
+                                    {"n":"Top Rated","v":""},
+                                    {"n":"newest","v":"new"},
+                                    {"n":"Recent Releases","v":"released"}]}
+                                    ],
+                        "tags/tie":[
+                                    {"key":"by","name":"排序","value":[
+                                    {"n":"Top Rated","v":""},
+                                    {"n":"newest","v":"new"},
+                                    {"n":"Recent Releases","v":"released"}]}
+                                    ],
+                        "tags/bondage":[
+                                    {"key":"by","name":"排序","value":[
+                                    {"n":"Top Rated","v":""},
+                                    {"n":"newest","v":"new"},
+                                    {"n":"Recent Releases","v":"released"}]}
+                                    ],
+                        "tags/rope":[
+                                    {"key":"by","name":"排序","value":[
+                                    {"n":"Top Rated","v":""},
+                                    {"n":"newest","v":"new"},
+                                    {"n":"Recent Releases","v":"released"}]}
+                                    ],
+                        "tags/pantyhose":[
+                                    {"key":"by","name":"排序","value":[
+                                    {"n":"Top Rated","v":""},
+                                    {"n":"newest","v":"new"},
+                                    {"n":"Recent Releases","v":"released"}]}
+                                    ],
+                        "tags/stocking":[
+                                    {"key":"by","name":"排序","value":[
+                                    {"n":"Top Rated","v":""},
+                                    {"n":"newest","v":"new"},
+                                    {"n":"Recent Releases","v":"released"}]}
+                                    ]
+
+
+
+
+
+                    }
+
+}

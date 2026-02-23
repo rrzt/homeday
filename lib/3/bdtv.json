@@ -1,0 +1,29 @@
+{
+
+    "分类url":"https://bdtv6.cc/category-{cateId}_{catePg}.html",
+    "分类":"原创$1#教学$2",
+
+ 
+    //"数组二次截取":"list\":[&&]",
+    "数组":"entry-media&&vbg",
+    "图片":"data-src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    
+
+    "搜索url":"https://hsckzy.cc/api.php/provide/vod/?ac=detail&wd={wd}&pg={catePg}",
+
+
+    "跳转播放链接":"u-clearfix*src=\"&&\"",
+
+    "简介":"<strong>&&</strong>",
+
+    "嗅探词":".gif",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+
+}

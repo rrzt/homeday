@@ -1,0 +1,26 @@
+{
+
+    //"请求头":"User-Agent$Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36#Cookie$age_gate=18",
+
+    "分类url":"https://bondageliberation.mymember.site/api/videos?count=20&page={catePg}&query[]=tags={cateId}",
+    "分类":"bondage$2#BDSN$14#biofeedback$22#biting$62#canning$47#chastity$60#crotch$91#electro$15#escape$100#gag$37#lingerie$93#metal$40#nipple$54#rope$41",
+
+    "二次截取":"\"data\":[&&]",
+    "数组":"{&&}",
+    "图片":"\"poster_src\":\"&&\"",
+    "标题":"\"title\":\"&&\"",
+    "链接":"https://bondageliberation.com/videos/+\"id\":&&,+-+\"title\":\"&&\"",
+
+
+    "跳转播放链接":"\"contentUrl\":\"&&\"",
+
+
+
+    "嗅探词":".mp4",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+
+}

@@ -1,0 +1,31 @@
+{
+
+    "分类url":"https://pornlab.xxx/search/{cateId}/{by}?page={catePg}",
+    "分类":"bdsm$bdsm#bound$bound#bondage$bondage#tie$tie#pantyhose$pantyhose#ballgag$ballgag",
+    "首页":"bondage",
+    
+    "数组":"class=\"js-gallery-stats js-gallery-link\"&&</picture>",
+    "图片":"type=\"image/jpeg\" srcset==\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    "跳转播放链接":"<source src=\"&&\"",
+    "直接播放":"1",
+    "嗅探词":".mp4#.m3u",
+
+
+
+    "筛选":{
+            "bdsm":[{"key":"by","name":"排序","value":[{"n":"Popular","v":""},{"n":"top_rated","v":"top_rated"},{"n":"Longest","v":"longest"},{"n":"newest","v":"newest"}]}],
+            "bound":[{"key":"by","name":"排序","value":[{"n":"Popular","v":""},{"n":"top_rated","v":"top_rated"},{"n":"Longest","v":"longest"},{"n":"newest","v":"newest"}]}],
+            "bondage":[{"key":"by","name":"排序","value":[{"n":"Popular","v":""},{"n":"top_rated","v":"top_rated"},{"n":"Longest","v":"longest"},{"n":"newest","v":"newest"}]}],
+            "tie":[{"key":"by","name":"排序","value":[{"n":"Popular","v":""},{"n":"top_rated","v":"top_rated"},{"n":"Longest","v":"longest"},{"n":"newest","v":"newest"}]}],
+            "pantyhose":[{"key":"by","name":"排序","value":[{"n":"Popular","v":""},{"n":"top_rated","v":"top_rated"},{"n":"Longest","v":"longest"},{"n":"newest","v":"newest"}]}],
+            "ballgag":[{"key":"by","name":"排序","value":[{"n":"Popular","v":""},{"n":"top_rated","v":"top_rated"},{"n":"Longest","v":"longest"},{"n":"newest","v":"newest"}]}]
+
+
+
+            }
+
+
+}

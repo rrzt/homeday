@@ -1,0 +1,47 @@
+{
+
+ 
+/*   
+
+    //手动分类
+    "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}",
+    "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied#ball-tie$ball-tie#anal-hook$anal-hook#asian$asian#bondage$bondage#chicken-wing-tie$chicken-wing-tie#dental-gag$dental-gag#frogtie$frogtie#harness-gag$harness-gag#hogtie$hogtie#kidnapping$kidnapping#milf$milf#pump-gag$pump-gag#reverse-prayer$reverse-prayer#self-bondage$self-bondage#spider-gag$spider-gag#strappado$strappado#suspension$suspension#strapon$strapon",
+
+*/  
+    //按首页第一个影片标注的所有tag（不包括最后一个tag）分类，（tag中包括字母"t"的话，不会被采集），每有一个新的影片分类就会变化
+    "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}/",
+    "分类二次截取":"list-post ax row&&itemscope",
+    "分类数组":"ag&&t",
+    "分类ID":"-&& ",
+    "分类标题":"-&& ",
+ 
+
+    "数组":"img-responsive-16by9\"&&/span>",
+    "图片":"data-src=\"&&\"",
+    "标题":"title=\"&&\"",
+    "副标题":"</i>&&<",
+    "链接":"href=\"&&\"",
+
+    "简介":"read-more--text text-white/70 text-white/70 leading-5 whitespace-normal&&</p>",
+    "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
+
+    //"跳转播放链接":"<IFRAME SRC=\"&&\"",
+    //"跳转播放链接":"<iframe src=\"&&\"",
+    //"跳转播放链接":"<div class=\"video\">*<a href=\"&&\"><",
+    "跳转播放链接":"<iframe src=\"&&\"",
+    //"二次跳转播放链接":"sources: \\[{file:\"&&\"",
+    "二次跳转播放链接":"https://urosrv1.streambucket.xyz/hls2/01/+|urlset|*|&&|+/,+|urlset|&&|+,.urlset/master.m3u8?t=+|srv|7200|&&|+&s=+|data|view|&&|+&e=7200&v=+|data|view|*|&&|video_ad|+&srv=stora1&i=0.3&sp=1000",
+
+
+    //"二次跳转播放链接":"window.location.href = '&&'",//此页面为"https://voe.sx/&&"，短暂停留后则会跳转其他域名
+    //"三次跳转播放链接":"Base64('hls': '&&')",
+
+
+    "嗅探词":".m3u8#.mp4",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+
+}

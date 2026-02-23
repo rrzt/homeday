@@ -1,0 +1,32 @@
+{
+
+    "分类url":"https://jbdsm.com/en/{cateId}",
+    "分类数组":"class=\"thumb__img\">&&</div>",
+    "分类ID":"href=\"/en/&&\"",
+    "分类标题":"alt=\"&&\">",
+
+ /*   
+
+    "分类url":"https://jbdsm.com/en/J3B2D0/Chinese-Femdom/",
+    "分类":"Armbinder$armbinder#Ballgag$ball-gag#Blindfold$blindfold#Chair-tied$chair-tied",
+ */     
+    "数组":"class=\"thumb__img clicktotube\"&&class=\"thumb__content\"",
+    "图片":"https://jbdsm.com/t/AA/ + data-tn=\"&&\"+.jpg",
+    "标题":"alt=\"&&\"",
+    "副标题":"class=\"thumb__time\">&&</span>",
+    "链接":"data-url=\"&&\"",
+
+    
+    //"搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
+
+    //"跳转播放链接":"<iframe class='player' src=\"&&\"",
+    //"二次跳转播放链接":"",
+    "嗅探词":".m3u8#.mp4",
+              
+"调试":"1",
+"直接播放":"1"
+
+
+
+
+}

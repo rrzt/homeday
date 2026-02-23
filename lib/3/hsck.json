@@ -1,0 +1,32 @@
+{
+    //"请求头": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.251 Safari/537.36",
+
+    "分类url":"https://hsckzy.cc/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
+    "分类":"SM$21#国主$6#国传$7#探花$8#国自$37#侵$12#制服$13#欧$36#milf$9#佳人$14#女同$34",
+
+ 
+    "数组二次截取":"list\":[&&]",
+    "数组":"{&&}",
+    "图片":"vod_pic\"*\"&&\"",
+    "标题":"vod_name\"*\"&&\"",
+    "副标题":"vod_pubdate\"*\"&&\"",
+    "链接":"https://hsckzy.cc/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
+
+    
+
+    "搜索url":"https://hsckzy.cc/api.php/provide/vod/?ac=detail&wd={wd}&pg={catePg}",
+
+    //"播放链接":"vod_pic_thumb\":\"&&\"[替换:1.jpg>>index.m3u8]",
+
+    "跳转播放链接":"name=\"copy_sel1\" value=\"&&\"",
+    "二次跳转播放链接":"url: \"&&\"",
+
+
+    "嗅探词":".m3u8",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+
+}

@@ -1,0 +1,58 @@
+{        
+    
+
+            "分类url":"https://pornxxx.tube/{cateId}/?page={catePg};;k",
+            //"分类url":"https://pornxxx.tube/{cateId}/?{by}",
+            "分类":"NEW$new-vids#fetish$videos/fetish#chinese$videos/chinese#milf$videos/milf#kinky$videos/kinky#submissive$videos/submissive#spandex$videos/spandex#secretary$videos/secretary#bdsm$videos/bdsm#office$videos/office#high-heels$videos/high-heels#stockings$videos/stockings#vintage$videos/vintage#miniskirt$videos/miniskirt#slave$videos/slave#panties$videos/panties#bondage$videos/bondage#tied-up$videos/tied-up#pantyhose$videos/pantyhose#punishment$videos/punishment#handcuffed$videos/handcuffed#clothed$videos/clothed#strip$videos/strip#leggings$videos/leggings#lezdom$videos/lezdom#domination$videos/domination#goth$videos/goth#garter-belt$videos/garter-belt#gagging$videos/gagging#fucking-machine$videos/fucking-machine#foot-fetish$videos/foot-fetish",
+
+            "数组":"class=\"b-thumb-item js-thumb\"&&</picture>",
+            //"二次截取":"b-thumb-list__wrap&&</div></div></div>",
+            "图片":"type=\"image/jpeg\" srcset==\"&&\"",
+            "标题":"alt=\"&&\"",
+            "链接":"href=\"&&\"",
+
+
+            "直接播放": "1",
+            "搜索模式": "1",
+            "搜索url": "https://pornxxx.tube/tags/{wd}/?page={catePg}"
+            
+            
+            //"嗅探词":".m3u8#.mp4",
+     /*       "筛选":{
+            "videos/fetish":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/chinese":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/milf":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/kinky":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/submissive":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/spandex":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/secretary":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/bdsm":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/office":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/high-heels":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/stockings":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/vintage":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/miniskirt":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/slave":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/panties":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/bondage":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/tied-up":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/pantyhose":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/punishment":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/handcuffed":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/clothed":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/strip":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/leggings":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/lezdom":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/goth":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/garter-belt":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/gagging":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/fucking-machine":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/foot-fetish":[{"key":"by","name":"排序","value":[{"n":"All","v":""},{"n":"1day","v":"added=1day&"},{"n":"2days","v":"added=2day&"},{"n":"1week","v":"added=1week"},{"n":"1month","v":"added=1month&"},{"n":"1year","v":"added=1year&"}]}],
+            "videos/domination":[{"key":"by","name":"排序","value":[{"n":"Popular","v":""},{"n":"top_rated","v":"top_rated"},{"n":"Longest","v":"longest"},{"n":"newest","v":"newest"}]}]
+
+
+
+            }    */
+
+
+   }

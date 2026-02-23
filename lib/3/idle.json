@@ -1,0 +1,27 @@
+{
+
+
+    "分类url":"https://rourou.co/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+    "分类":"麻豆$1#角色$8#制服$9#强乱$31#黑料$33#精品$35#探花$36#女同$37#SM$38#milf$40",
+    //"首页":"制服",
+    
+    
+    "数组":"thumb wide lazyload&&play hidden-xs",
+    "图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+
+
+    "跳转播放链接":"vod_class\"*\"url\":\"&&\"",
+    //"二次跳转播放链接":"\"link_pre\":*\"url\":\"&&\"",
+    "直接播放":"1",
+    "调试":"1",
+    "嗅探词":".m3u8"
+
+
+
+
+
+
+
+}

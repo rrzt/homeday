@@ -1,0 +1,20 @@
+{
+
+    "分类url":"https://www.xbyc.cc/index.php/vod/type/id/1/page/2.html",
+    "分类":"麻豆$1#91厂$2#天美$3#蜜桃$4#皇家$5#星空$6#精东$7#X视界$8#草莓$9#萝莉社$10#兔子$11#杏吧$12#猛料$15#other$16#SA国际$17",
+
+    "数组":"class=\"box-item\">&&</a>",
+    "链接":"href=\"&&\"",
+    "图片":"<img src=\"&&\"",
+    "标题":"title=\"&&\"",
+
+    "跳转播放链接":"\"vod_class\"*\"url\":\"&&\"",
+    "直接播放":"1",
+    "嗅探词":".m3u8#.mp4",
+    "调试":"1",
+
+    "搜索url": "https://www.xbyc.cc/index.php/vod/search.html;post;wd={wd}"
+
+
+
+}

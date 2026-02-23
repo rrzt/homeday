@@ -1,0 +1,32 @@
+{
+
+    "分类url":"https://taiga-wa4ohpee-taiga.qoqavideo7y5m4.xyz/vodtype/{cateId}-{catePg}/",
+    "分类":"国传$4#欧极$22#强乱$24#主播$26#服诱$25#调$54#拍$60#麻豆$202#天美$205#果冻$206",
+    "首页":"天美",
+    
+    
+    "数组":"<img class=\"loadi\"&&</h5>",
+    "图片":"data-original=\"&&\"",
+    "标题":"<h5><a href=*>&&</a>",
+    "链接":"href=\"&&\"",
+
+
+
+/*
+    "播放数组": "class=\"detail-play-list clearfix tab-pane ff-playurl ff-playurl-tab-1 active fade in\">&&</ul>",
+    "播放列表": "<a&&/a>",
+    "播放标题":">&&<",
+    "播放链接":"<a href=\"&&\"",
+*/
+
+    //"跳转二次截取":"class=\"detail-poster\"&&</a>",
+    //"跳转链接":"<a href=\"&&\">",
+
+    "跳转播放链接":"https://taiga-wa4ohpee-taiga.qoqavideo7y5m4.xyz/vodplay/+href=\"/voddetail/&&/\"+-1-1/",
+    "二次跳转播放链接":"\"link_pre\":*\"url\":\"&&\"",
+    "直接播放":"1",
+    "调试":"1",
+    "嗅探词":".m3u8"
+
+
+}

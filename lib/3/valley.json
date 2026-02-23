@@ -1,0 +1,131 @@
+{
+    
+    //"首页数组": "class=\"video-list-image\"&&class=\"play_hover_btn\"",
+    "首页":"最新",
+    "分类url":"https://bondagevalley.cc/videos/{cateId}{class}?page_id={catePg}&type={by}",
+
+
+    "分类":"趋势$trending#前置$top#目录$category#看过$watched#最新$latest",
+    "数组":"class=\"video-thumb\"&&class=\"play_hover_btn\"[不包含:0 0 27 24]",
+    "图片":"src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    //"跳转播放数组":"<video id=&&data-quality=\"480p\"",
+    //"跳转播放链接":"<source src=\"&&\"",
+    
+
+    "直接播放":"1",
+    "嗅探词":".webm",
+    "调试":"1",
+
+    "搜索模式":"1",
+    "搜索url": "https://bondagevalley.cc/search?keyword={wd}&page_id={catePg}",
+    
+    "简介": "itemprop=\"description\">&&</p>",
+    "筛选":{
+    "category":[
+    {"key":"class","name":"厂商","value":[
+    {"n":"全部类别","v":""},
+    {"n":"cafe","v":"/849"},
+    {"n":"metal","v":"/852"},
+    {"n":"cb","v":"/871"},
+    {"n":"Junkies","v":"/861"},
+    {"n":"shiny","v":"/869"},
+    {"n":"lewRuben","v":"/856"},
+    {"n":"belt","v":"/851"},
+    {"n":"house","v":"/870"},
+    {"n":"FetishPros","v":"/864"},
+    {"n":"Chimera","v":"/859"},
+    {"n":"Hucows","v":"/858"},
+    {"n":"office","v":"/862"},
+    {"n":"cinch&s","v":"/889"},
+    {"n":"Tieable","v":"/850"},
+    {"n":"Restricted","v":"/855"},
+    {"n":"Orgasm","v":"/868"},
+    {"n":"Brenda's","v":"/908"},
+    {"n":"Hunter's","v":"/912"},
+    {"n":"Charlotte","v":"/873"},
+    {"n":"TiedinHeels","v":"/866"},
+    {"n":"BoundLife","v":"/867"},
+    {"n":"Asiana","v":"/902"},
+    {"n":"SluTS","v":"/892"},
+    {"n":"Qualitycontrol","v":"/894"},
+    {"n":"Bedroom","v":"/895"},
+    {"n":"Hardtied","v":"/898"},
+    {"n":"b2b","v":"/896"},
+    {"n":"Straitjacketed","v":"/854"},
+    {"n":"Drea Morgan","v":"/900"},
+    {"n":"Nyxon's","v":"/897"},
+    {"n":"Cumbots","v":"/878"},
+    {"n":"BoundHoneys","v":"/910"},
+    {"n":"Reflective","v":"/879"},
+    {"n":"Bling","v":"/911"},
+    {"n":"steel","v":"/887"},
+    {"n":"Smile","v":"/880"},
+    {"n":"Futile","v":"/877"},
+    {"n":"MILF","v":"/905"},
+    {"n":"TiedGirls","v":"/860"},
+    {"n":"Chrissy Marie","v":"/872"},
+    {"n":"Midwest","v":"/901"},
+    {"n":"Asylum","v":"/888"},
+    {"n":"Endurance","v":"/876"},
+    {"n":"SocietySM","v":"/906"},
+    {"n":"Jay Edwards","v":"/884"},
+    {"n":"Swimsuit","v":"/890"},
+    {"n":"Lemon","v":"/922"},
+    {"n":"TickleAbuse","v":"/875"},
+    {"n":"Simply Restraints","v":"/882"},
+    {"n":"Serious Images","v":"/885"},
+    {"n":"Serene Isley","v":"/883"},
+    {"n":"Hogtied","v":"/863"},
+    {"n":"Triple-BBB","v":"/893"},
+    {"n":"JBRoper","v":"/904"},
+    {"n":"BondageGlam","v":"/857"},
+    {"n":"Devonshire","v":"/909"},
+    {"n":"Xiaomeng","v":"/920"},
+    {"n":"OrgasmeAbuse","v":"/874"},
+    {"n":"Harmony Concepts","v":"/881"},
+    {"n":"Cuffed Teens","v":"/899"},
+    {"n":"Inescapable Bondage","v":"/886"},
+    {"n":"ShockChallenge","v":"/925"},
+    {"n":"Tucson Tied","v":"/853"},
+    {"n":"Cafe JWV","v":"/891"},
+    {"n":"Hemminger","v":"/921"},
+    {"n":"Conversation Piece","v":"/907"},
+    {"n":"Hard Bound Girls","v":"/914"},
+    {"n":"Ivan Boulder","v":"/916"},
+    {"n":"Unique Rope","v":"/903"},
+    {"n":"Shallow","v":"/915"},
+    {"n":"Cuffed In Uniform","v":"/918"},
+    {"n":"HUI","v":"/924"},
+    {"n":"Sex And Submission","v":"/865"},
+    {"n":"Ted Michaels Damsels","v":"/919"},
+    {"n":"Keye Bondage Images","v":"/913"},
+    {"n":"Strict Restraint","v":"/929"},
+    {"n":"Luna Dawns Fetish Funhouse","v":"/917"},
+    {"n":"Green Hat Academy","v":"/926"},
+    {"n":"Gagged Fantasy","v":"/927"},
+    {"n":"The White Ward","v":"/928"},
+    {"n":"BoundLive","v":"/923"}
+    ]
+    }
+],
+    "top":
+[
+    {"key":"by","name":"时段","value":[
+    {"n":"所有","v":""},
+    {"n":"今天","v":"today"},
+    {"n":"本周","v":"this_week"},
+    {"n":"本月","v":"this_month"},
+    {"n":"本年","v":"this_year"},
+    {"n":"最多点赞","v":"most_liked"},
+    {"n":"最多评论","v":"most_coms"}
+    ]
+    }
+]
+}
+
+
+
+}
