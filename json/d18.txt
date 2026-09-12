@@ -4,7 +4,7 @@
 {"urls": 
 [
 {"url":"https://gh-proxy.com/https://github.com/rrzt/home/blob/master/fuli18.json","name": "fuli18-own"},
-{"url":"https://d.kstore.dev/download/11325/ls/fl18.txt","name": "fl8-own-ks"},
+{"url":"http://d.kstore.dev/download/11325/ls/fl18.txt","name": "fl8-own-ks"},
   {"url":"https://gh-proxy.org/https://raw.githubusercontent.com/aa123jg/tvbox-FL/main/wyykFL/wyykFL.json","name":"AA123JG
 优秀"},
   {"url":"https://gh-proxy.org/https://github.com/aa123jg/tvbox-FL/blob/main/wyykFL/wyykFL.json","name":"AA123JG-2
